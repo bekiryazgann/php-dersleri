@@ -1,6 +1,6 @@
 # PHP Dersleri
 
-- PHP Nedir
+- [PHP Nedir](https://github.com/bekiryazgann/php-dersleri/blob/main/php-nedir.md)
 - Mamp Kurulumu
 - Geliştirme Aracı Seçimi
 - Giriş
