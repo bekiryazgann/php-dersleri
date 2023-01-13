@@ -3,6 +3,7 @@
 - [PHP Nedir](https://github.com/bekiryazgann/php-dersleri/blob/main/php-nedir.md)
 - [Mamp Kurulumu](https://github.com/bekiryazgann/php-dersleri/blob/main/mamp-kurulumu.md)
 - [Geliştirme Aracı Seçimi](https://github.com/bekiryazgann/php-dersleri/blob/main/gelistirme-araci-secimi.md)
+- [Geliştirme Aracının Kurulumu](https://github.com/bekiryazgann/php-dersleri/blob/main/gelistirme-aracinin-kurulumu.md)
 - Giriş
 - Değişken Kullanımı
 - Veri Türleri
