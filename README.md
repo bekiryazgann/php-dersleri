@@ -1,7 +1,7 @@
 # PHP Dersleri
 
 - [PHP Nedir](https://github.com/bekiryazgann/php-dersleri/blob/main/php-nedir.md)
-- Mamp Kurulumu
+- [Mamp Kurulumu](https://github.com/bekiryazgann/php-dersleri/blob/main/mamp-kurulumu.md)
 - Geliştirme Aracı Seçimi
 - Giriş
 - Değişken Kullanımı
